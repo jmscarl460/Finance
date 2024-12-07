@@ -38,7 +38,7 @@ Finance is a lightweight, console-based application designed to help users manag
 
 ## How to Use
 
-1. Download the `Finance for Windows.exe` file
+1. Download this into ZIP file
 2. Run the application. No installation required.  
 3. Follow the console prompts to:  
    - Register/Login  
