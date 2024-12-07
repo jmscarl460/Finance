@@ -64,5 +64,5 @@ We welcome feedback and suggestions! Please send your ideas or report issues to 
 
 ## Release Date
 
-**Finance Open Beta** was released on **[Insert Date]**.  
+**Finance Open Beta** was released on **December 7, 2024**.  
 Future updates will include more advanced features. Stay tuned!  
